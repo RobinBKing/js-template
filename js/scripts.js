@@ -1,5 +1,5 @@
 //business logic
 
 //interface
-$(document).ready(function() {
-});
+// $(document).ready(function() {
+// });
